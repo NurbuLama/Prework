@@ -1,17 +1,17 @@
 # Prework - TipComputer
-TipComputer is a tip calculator application for iOS. 
-Submitted by: Nurbu Lama
-Time spent: 12 hours spent in total 
+TipComputer is a tip calculator application for iOS. <br>
+Submitted by: Nurbu Lama <br>
+Time spent: 12 hours spent in total <br>
 
 ## User Stories
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+- User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+- User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **additional** features are implemented:
 
-- [ ] Added a cloned google search bar where user can search and after hitting an enter, it directs to the results on google. 
+- Added a cloned google search bar where user can search and after hitting an enter, it directs to the results on google. 
 
 ## Video Walkthrough
 
