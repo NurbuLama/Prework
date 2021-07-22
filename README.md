@@ -17,6 +17,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">(https://youtu.be/<VIDEO ID>)
 <img src='https://imgur.com/InOihyO'>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
